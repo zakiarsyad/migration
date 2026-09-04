@@ -1,0 +1,5 @@
+# Never commit exported personal data or credentials.
+mac-essential/
+*.pem
+*.key
+.ssh/
