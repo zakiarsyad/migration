@@ -1,5 +1,7 @@
 # Never commit exported personal data or credentials.
 mac-essential/
+mac-terminal-config/
+mac-terminal-config-backup-*/
 *.pem
 *.key
 .ssh/
